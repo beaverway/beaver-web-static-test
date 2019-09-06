@@ -1,0 +1,1 @@
+# beaver-web-static-test
